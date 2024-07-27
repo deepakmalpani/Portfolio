@@ -11,7 +11,7 @@ const Skills = () => {
         <div className="space-y-4">
           <h2 className="text-3xl font-bold">Skills</h2>
           <p className="text-muted-foreground-dark">
-            A collection of technologies I'm proficient in.
+            A collection of technologies I&apos;m proficient in.
           </p>
         </div>
         <div className="grid grid-cols-2 gap-6 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5">

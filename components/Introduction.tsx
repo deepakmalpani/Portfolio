@@ -19,9 +19,9 @@ export function Introduction() {
             I craft epic, user-friendly applications using my front-end and
             back-end skills. From responsive interfaces to powerful server-side
             systems, I make sure everything runs smoothly. Check out my work,
-            and let's team up to create something legendary!
+            and let&apos;s team up to create something legendary!
           </p>
-        </div>
+        </div>        
       </div>
     </section>
   );
