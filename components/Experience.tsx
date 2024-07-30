@@ -1,4 +1,4 @@
-import { BriefcaseIcon } from "lucide-react";
+import { RocketIcon } from "lucide-react";
 
 const Experience = () => {
   return (
@@ -14,7 +14,7 @@ const Experience = () => {
           <div className="absolute left-0 top-0 h-full w-[2px] bg-muted-dark" />
           <div className="grid grid-cols-[auto_1fr] items-start gap-6">
             <div className="relative flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-primary text-primary-foreground">
-              <BriefcaseIcon className="h-5 w-5" />
+              <RocketIcon className="h-5 w-5" />
             </div>
             <div className="space-y-4">
               <h3 className="text-lg font-semibold">
@@ -53,7 +53,7 @@ const Experience = () => {
           </div>
           <div className="grid grid-cols-[auto_1fr] items-start gap-6">
             <div className="relative flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-primary text-primary-foreground">
-              <BriefcaseIcon className="h-5 w-5" />
+              <RocketIcon className="h-5 w-5" />
             </div>
             <div className="space-y-2">
               <h3 className="text-lg font-semibold">
