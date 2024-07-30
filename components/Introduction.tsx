@@ -5,7 +5,7 @@ import { Spotlight } from "./ui/spotlight";
 export function Introduction() {
   return (
     <section id="Introduction">
-      <div className="h-[30rem] w-full rounded-md flex md:items-center md:justify-center bg-black/[0.96] antialiased bg-grid-white/[0.02] relative overflow-hidden">
+      <div className="h-[30rem] w-full rounded-md flex md:items-center md:justify-center antialiased relative overflow-hidden">
         <Spotlight
           className="-top-40 left-0 md:left-60 md:-top-20"
           fill="white"
@@ -15,7 +15,7 @@ export function Introduction() {
             Deepak Malpani <br />
             <span className="text-3xl">Full stack developer</span>
           </h1>
-          <p className="mt-4 font-normal text-base text-neutral-300 max-w-lg text-center mx-auto">
+          <p className="mt-4 font-normal text-base text-muted-foreground-dark max-w-lg text-center mx-auto">
             I craft epic, user-friendly applications using my front-end and
             back-end skills. From responsive interfaces to powerful server-side
             systems, I make sure everything runs smoothly. Check out my work,
