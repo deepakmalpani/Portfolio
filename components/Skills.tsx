@@ -17,56 +17,56 @@ const Skills = () => {
         <div className="grid grid-cols-2 gap-6 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5">
         <div className="flex flex-col items-center gap-2">
             <div className="flex h-12 w-12 items-center justify-center rounded-full bg-muted-dark">
-              <FaPython className="h-6 w-6" />
+              <FaPython className="h-8 w-8" />
             </div>
             <span className="text-sm font-medium">Python</span>
           </div>
           <div className="flex flex-col items-center gap-2">
             <div className="flex h-12 w-12 items-center justify-center rounded-full bg-muted-dark">
-              <FaReact className="h-6 w-6" />
+              <FaReact className="h-8 w-8" />
             </div>
             <span className="text-sm font-medium">React</span>
           </div>
           <div className="flex flex-col items-center gap-2">
             <div className="flex h-12 w-12 items-center justify-center rounded-full bg-muted-dark">
-              <RiNextjsFill className="h-6 w-6" />
+              <RiNextjsFill className="h-8 w-8" />
             </div>
             <span className="text-sm font-medium">Next js</span>
           </div>
           <div className="flex flex-col items-center gap-2">
             <div className="flex h-12 w-12 items-center justify-center rounded-full bg-muted-dark">
-              <SiTerraform className="h-6 w-6" />
+              <SiTerraform className="h-8 w-8" />
             </div>
             <span className="text-sm font-medium">Terraform</span>
           </div>
           <div className="flex flex-col items-center gap-2">
             <div className="flex h-12 w-12 items-center justify-center rounded-full bg-muted-dark">
-              <SiMicrosoftazure className="h-6 w-6" />
+              <SiMicrosoftazure className="h-8 w-8" />
             </div>
             <span className="text-sm font-medium">Azure</span>
           </div>
           <div className="flex flex-col items-center gap-2">
             <div className="flex h-12 w-12 items-center justify-center rounded-full bg-muted-dark">
-              <TypeIcon className="h-6 w-6" />
+              <TypeIcon className="h-8 w-8" />
             </div>
             <span className="text-sm font-medium">TypeScript</span>
           </div>
           <div className="flex flex-col items-center gap-2">
             <div className="flex h-12 w-12 items-center justify-center rounded-full bg-muted-dark">
-              <SiDatabricks className="h-6 w-6" />
+              <SiDatabricks className="h-8 w-8" />
             </div>
             <span className="text-sm font-medium">Databricks</span>
           </div>
           <div className="flex flex-col items-center gap-2">
             <div className="flex h-12 w-12 items-center justify-center rounded-full bg-muted-dark">
-              <IoGitBranchSharp className="h-6 w-6" />
+              <IoGitBranchSharp className="h-8 w-8" />
             </div>
             <span className="text-sm font-medium">Git</span>
           </div>
           
           <div className="flex flex-col items-center gap-2">
             <div className="flex h-12 w-12 items-center justify-center rounded-full bg-muted-dark">
-              <SnowflakeIcon className="h-6 w-6" />
+              <SnowflakeIcon className="h-8 w-8" />
             </div>
             <span className="text-sm font-medium">Snowflake</span>
           </div>
