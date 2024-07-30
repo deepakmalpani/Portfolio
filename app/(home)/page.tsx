@@ -2,7 +2,6 @@ import Experience from "@/components/Experience";
 import Header from "@/components/Header";
 import { Introduction } from "@/components/Introduction";
 import Skills from "@/components/Skills";
-import { Meteors } from "@/components/ui/meteors";
 
 const Home = () => {
   return (
@@ -12,7 +11,6 @@ const Home = () => {
       <Introduction />
       <Experience />
       <Skills/>
-      {/* <Meteors number={20} className="z-0"/> */}
     </main>
     </div>
   );
