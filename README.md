@@ -1,4 +1,21 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Portfolio Website
+
+This is the source code for my personal portfolio website. The website showcases my skills, projects, and experience as a full-stack developer. It includes sections for an introduction, a list of projects, and contact information.
+
+## Purpose
+
+The purpose of this portfolio website is to provide a platform where potential employers, clients, and collaborators can learn more about my work and get in touch with me.
+
+## Features
+
+- **Responsive Design**: The website is fully responsive and works well on all devices, from desktops to mobile phones.
+- **Download Resume**: Visitors can download my resume directly from the website.
+
+## Technologies Used
+
+- **Frontend**: React, Tailwind CSS
+- **Backend**: Node.js, Express
+- **Hosting**: Vercel
 
 ## Getting Started
 
