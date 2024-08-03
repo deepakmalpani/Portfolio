@@ -2,7 +2,7 @@ import { RocketIcon } from "lucide-react";
 
 const Experience = () => {
   return (
-    <section id="experience" className="container py-12 md:py-16">
+    <section id="experience" className="container py-12 md:py-4">
       <div className="mx-auto max-w-3xl space-y-8">
         <div className="space-y-4">
           <h2 className="text-3xl font-bold">Experience</h2>
