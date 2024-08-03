@@ -33,13 +33,13 @@ export function Introduction() {
           </p>
           <div className="flex gap-4 justify-center flex-row mt-4">
             <button
-              className="h-12 animate-shimmer rounded-md border border-primary bg-[linear-gradient(110deg,#000103,45%,#1e2631,55%,#000103)] bg-[length:200%_100%] px-6 font-medium text-primary transition-colors focus:outline-none focus:ring-2 focus:ring-slate-400 focus:ring-offset-2 focus:ring-offset-slate-50"
+              className="h-12 text-sm sm:text-base animate-shimmer rounded-md border border-primary bg-[linear-gradient(110deg,#000103,45%,#1e2631,55%,#000103)] bg-[length:200%_100%] px-6 font-medium text-primary transition-colors focus:outline-none focus:ring-2 focus:ring-slate-400 focus:ring-offset-2 focus:ring-offset-slate-50"
               onClick={handleContactClick}
             >
               Contact Me
             </button>
             <button
-              className="h-12 animate-shimmer rounded-md border border-input bg-[linear-gradient(110deg,#000103,45%,#1e2631,55%,#000103)] bg-[length:200%_100%] px-6 font-medium text-muted-foreground-dark transition-colors focus:outline-none focus:ring-2 focus:ring-slate-400 focus:ring-offset-2 focus:ring-offset-slate-50"
+              className="h-12 text-sm sm:text-base animate-shimmer rounded-md border border-input bg-[linear-gradient(110deg,#000103,45%,#1e2631,55%,#000103)] bg-[length:200%_100%] px-6 font-medium text-muted-foreground-dark transition-colors focus:outline-none focus:ring-2 focus:ring-slate-400 focus:ring-offset-2 focus:ring-offset-slate-50"
               onClick={handleDownloadResumeClick}
             >
               Download Resume
