@@ -1,6 +1,6 @@
 # Portfolio Website
 
-This is the source code for my personal portfolio website. The website showcases my skills, projects, and experience as a full-stack developer. It includes sections for an introduction, a list of projects, and contact information.
+This is the source code for my personal portfolio website. The website showcases my skills, projects, and experience as a full-stack developer. It includes sections for an introduction, professional experience and skills.
 
 ## Purpose
 
