@@ -9,7 +9,7 @@ export function Introduction() {
   };
 
   const handleDownloadResumeClick = () => {
-    const url = "https://drive.google.com/uc?export=download&id=14FTSCtvfdQYnRcnwIvTiqh5LPaCb3jFE";
+    const url = "https://drive.google.com/uc?export=download&id=1h0co4xrSY8Z77FZ7ITFybeGDCrnUp_Ia";
     window.open(url, "_blank");
   };
 
